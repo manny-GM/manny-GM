@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manny-GM
-- 👀 I’m interested in backend. Its becoming my new found love.
-- 🌱 I’m currently learning python, javascript, c#, html and css
-- 💞️ I’m looking to collaborate on alot. Projects requiring me to do backend work precisely 
+- 👀 I’m interested in Frontend. Its becoming my new found love.
+- 🌱 I’m currently learning javascript, html and css
+- 💞️ I’m looking to collaborate on alot. Projects requiring me to do frontend work precisely 
 - 📫 How to reach me: manny-GM.github.io/profile/
 
 <!---
